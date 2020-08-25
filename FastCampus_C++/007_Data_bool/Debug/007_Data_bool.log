@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\FastCampus_C++\007_Data_bool\main.cpp(16,24): warning C4305: '초기화 중': 'int'에서 'bool'(으)로 잘립니다.
+  007_Data_bool.vcxproj -> C:\FastCampus_C++\Debug\007_Data_bool.exe

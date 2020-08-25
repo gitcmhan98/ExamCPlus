@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\FastCampus_C++\005_Data04\main.cpp(49,26): warning C4305: '초기화 중': 'int'에서 'char'(으)로 잘립니다.
+C:\FastCampus_C++\005_Data04\main.cpp(49,23): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\FastCampus_C++\005_Data04\main.cpp(50,23): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  005_Data04.vcxproj -> C:\FastCampus_C++\Debug\005_Data04.exe

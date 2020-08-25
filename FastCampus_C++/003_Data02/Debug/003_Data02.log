@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\FastCampus_C++\003_Data02\main.cpp(53,21): warning C4307: '-': 부호 있는 정수 계열 상수 오버플로입니다.
+C:\FastCampus_C++\003_Data02\main.cpp(54,21): warning C4307: '+': 부호 있는 정수 계열 상수 오버플로입니다.
+  003_Data02.vcxproj -> C:\FastCampus_C++\Debug\003_Data02.exe

@@ -1,0 +1,3 @@
+﻿  059_CheckPoint.cpp
+C:\FastCampus_C++\059_CheckPoint\059_CheckPoint.cpp(45,26): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  059_CheckPoint.vcxproj -> C:\FastCampus_C++\Debug\059_CheckPoint.exe
